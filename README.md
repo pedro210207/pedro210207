@@ -25,15 +25,6 @@
 
 ---
 
-### 📊 Minhas Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedro210207&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro210207&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Linguagens mais usadas" height="150"/>
-</div>
-
----
-
 ### 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-oliveira-sampaio-0b5469387/)
