@@ -2,9 +2,9 @@
 
 👨‍💻 Estudante do 4º período de Tecnologia da Informação (FAETERJ Petrópolis).
 
-🚀 Focado em **Backend & Análise de Dados**, criando soluções que vão da modelagem de banco de dados até a visualização executiva.
+🚀 Focado em **Análise de Dados**, criando soluções que vão da modelagem de banco de dados até a visualização executiva.
 
-🎯 Buscando minha primeira oportunidade (Estágio/Júnior) em desenvolvimento ou dados.
+🎯 Buscando minha primeira oportunidade (Estágio/Júnior) em dados.
 
 ---
 
