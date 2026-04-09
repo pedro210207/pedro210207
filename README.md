@@ -60,5 +60,3 @@ Desenvolvimento de um sistema de Ponto de Venda para automação de processos de
 * **Destaques:** Implementação de lógica de CRUD persistente em banco de dados SQL, gestão de inventário e geração de logs de transações.
 
 </div>
-
----
