@@ -21,6 +21,7 @@ Estudante de Tecnologia da Informação na FAETERJ Petrópolis (4º Período). M
 <div align="center">
 
 **Análise de Dados & BI** <br>
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-150458?style=for-the-badge&logo=python&logoColor=white)
