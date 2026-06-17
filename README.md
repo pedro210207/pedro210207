@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📊 Pedro Oliveira
+# Pedro Oliveira
 ### Analista de Dados | BI Developer | Engenharia de Dados
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-oliveira-sampaio-0b5469387/)
