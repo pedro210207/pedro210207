@@ -79,7 +79,7 @@ Estudo analítico focado em cruzamento de dados comportamentais e identificaçã
 
 ## 🎓 Formação
 <div align="justify">
-<strong>Tecnologia da Informação e Comunicação</strong> | FAETERJ Petrópolis | 4º Período (Previsão de conclusão: Julho/2027)
+<strong>Tecnologia da Informação e Comunicação</strong> | FAETERJ Petrópolis | 5º Período (Previsão de conclusão: Julho/2027)
 </div>
 
 ---
