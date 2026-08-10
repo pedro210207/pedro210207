@@ -11,7 +11,7 @@
 
 ## 🎯 Sobre
 <div align="justify">
-Estudante de Tecnologia da Informação na FAETERJ Petrópolis (4º Período). Meu foco total é atuar com <strong>Análise de Dados e BI</strong>, aplicando raciocínio analítico para transformar dados brutos em inteligência de negócio. Tenho experiência prática no desenvolvimento de soluções analíticas End-to-End, passando pela extração e tratamento de dados (ETL com Python/Pandas), modelagem relacional avançada em MySQL e construção de dashboards estratégicos com storytelling no Power BI.
+Estudante de Tecnologia da Informação na FAETERJ Petrópolis (5º Período). Meu foco total é atuar com <strong>Análise de Dados e BI</strong>, aplicando raciocínio analítico para transformar dados brutos em inteligência de negócio. Tenho experiência prática no desenvolvimento de soluções analíticas End-to-End, passando pela extração e tratamento de dados (ETL com Python/Pandas), modelagem relacional avançada em MySQL e construção de dashboards estratégicos com storytelling no Power BI.
 </div>
 
 ---
